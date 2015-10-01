@@ -1,0 +1,28 @@
+{
+  "name": "googledrive",
+  "version": "1.0.0",
+  "description": "Test Google Drive API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paulo Morais",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulomorais/googledrive.git"
+  },
+  "keywords": [
+    "Google",
+    "Drive",
+    "API"
+  ],
+  "bugs": {
+    "url": "https://github.com/paulomorais/googledrive/issues"
+  },
+  "homepage": "https://github.com/paulomorais/googledrive#readme",
+  "dependencies": {
+    "google-auth-library": "^0.9.6",
+    "googleapis": "^2.1.5"
+  }
+}
